@@ -5,6 +5,7 @@
 <p align="center">
   <a href="https://arxiv.org/abs/2611.26629"><img src="https://img.shields.io/badge/arXiv-Paper-b31b1b?logo=arxiv&logoColor=white" alt="Paper"></a>
   <a href="https://pmd-distillation.github.io/"><img src="https://img.shields.io/badge/Project-Page-pink?logo=googlechrome&logoColor=white" alt="Project Page"></a>
+  <a href="https://huggingface.co/papers/2611.26629"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Daily%20Papers-yellow" alt="HuggingFace Daily Papers"></a>
 </p>
 
 <p align="center">
