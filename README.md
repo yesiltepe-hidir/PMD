@@ -1,6 +1,6 @@
-<h2 align="center">
+<h1 align="center">
   Posterior Matching Distillation
-</h2>
+</h1>
 
 <p align="center">
   <a href="https://arxiv.org/abs/2611.26629"><img src="https://img.shields.io/badge/arXiv-Paper-b31b1b?logo=arxiv&logoColor=white" alt="Paper"></a>
@@ -18,8 +18,16 @@
   <sup>1</sup>Virginia Tech &nbsp; <sup>2</sup>NVIDIA
 </p>
 
+<hr>
+
 <p align="center">
   <img src="assets/teaser.jpg" alt="PMD teaser" width="100%">
+</p>
+
+Diverse samples from PMD (FLUX.2 [klein], 4 steps). Each row is one prompt with eight seeds.
+
+<p align="center">
+  <img src="assets/diversity.jpg" alt="PMD diversity grid: cat, dog, Tokyo and robin prompts" width="100%">
 </p>
 
 ## 🔥 News
